@@ -53,4 +53,5 @@ public class MainActivity extends AppCompatActivity {
 		super.onDestroy();
 		Toast.makeText(this, "Application On Destroy", Toast.LENGTH_SHORT).show();
 	}
+
 }
